@@ -11,7 +11,7 @@ MODES = {
 
     # Makes the proxy harder to detect
     # Can be incompatible with very old clients
-    "secure": True,
+    "secure": False,
 
     # Makes the proxy even more hard to detect
     # Can be incompatible with old clients
@@ -20,8 +20,8 @@ MODES = {
 
 # The domain for TLS mode, bad clients are proxied there
 # Use random existing domain, proxy checks it on start
-TLS_DOMAIN = "mail.google.com"
+TLS_DOMAIN = "man-bargashtam.proxy.orginal.hame.dostam.daran.fadat.co.uno.io"
 
 # Tag for advertising, obtainable from @MTProxybot
-AD_TAG = "8bd7c59cd625d7991b86a77dfbc5fcff"
+AD_TAG = "c9f96504e1e6ffe934f134baf7ca5255"
 
