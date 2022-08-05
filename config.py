@@ -2,7 +2,7 @@ PORT = 443
 
 # name -> secret (32 hex chars)
 USERS = {
-    "tg":  "00000000000000000000000000000000"
+    "tg":  "20000002000022200000000200002200"
 }
 
 MODES = {
@@ -20,7 +20,7 @@ MODES = {
 
 # The domain for TLS mode, bad clients are proxied there
 # Use random existing domain, proxy checks it on start
-TLS_DOMAIN = "man-bargashtam.proxy.orginal.hame.dostam.daran.fadat.co.uno.io"
+TLS_DOMAIN = "www.Yadesh.ir"
 
 # Tag for advertising, obtainable from @MTProxybot
 AD_TAG = "c9f96504e1e6ffe934f134baf7ca5255"
