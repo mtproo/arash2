@@ -23,5 +23,5 @@ MODES = {
 TLS_DOMAIN = "www.Yadesh.ir"
 
 # Tag for advertising, obtainable from @MTProxybot
-AD_TAG = "c9f96504e1e6ffe934f134baf7ca5255"
+AD_TAG = "8aaddd60c4328bc57a7d0b52c57e4906"
 
